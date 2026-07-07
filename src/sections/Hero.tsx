@@ -105,6 +105,8 @@ export default function Hero() {
 
               <motion.a
                 href={SITE_CONFIG.resumeUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full glass text-secondary font-medium text-sm hover:text-primary hover:bg-white/[0.08] transition-colors magnetic"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}

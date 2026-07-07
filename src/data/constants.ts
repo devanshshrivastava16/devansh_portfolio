@@ -5,7 +5,7 @@ export const SITE_CONFIG = {
   description: 'Java Backend Developer with a strong foundation in Spring Boot and React.js. Experienced in building backend systems, RESTful APIs, and full-stack applications with a focus on clean, secure, and maintainable code.',
   email: 'devanshshri16@gmail.com',
   phone: '+91 8604821964',
-  resumeUrl: '/Devansh_Shrivastava_CV.pdf',
+  resumeUrl: 'https://drive.google.com/file/d/1VgeSp20qaMJwQBlupfM_Sik-CXAavnXh/view?usp=sharing',
   location: 'Jhansi, India',
   linkedin: 'https://linkedin.com/in/devansh-shrivastava',
   github: 'https://github.com/devanshshri16',
