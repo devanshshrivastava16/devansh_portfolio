@@ -119,8 +119,8 @@ export default function Hero() {
             {/* Social icons */}
             <motion.div variants={item} className="mt-8 flex gap-4 justify-center lg:justify-start">
               {[
-                { icon: FiGithub, label: 'GitHub', url: 'https://github.com' },
-                { icon: FiLinkedin, label: 'LinkedIn', url: 'https://linkedin.com' },
+                { icon: FiGithub, label: 'GitHub', url: 'https://github.com/devanshshrivastava16' },
+                { icon: FiLinkedin, label: 'LinkedIn', url: 'https://linkedin.com/in/devanshshrivastava' },
               ].map((social) => (
                 <motion.a
                   key={social.label}

@@ -42,7 +42,24 @@ export const EDUCATION = [
 ];
 
 export const AWARDS = [
-  { title: 'Java (Intermediate) Certificate', issuer: 'HackerRank' },
-  { title: 'Rest API (Intermediate) Certificate', issuer: 'HackerRank' },
-  { title: '4th Position', issuer: 'Symbiosis Skill Hackathon — Symbiosis University of Applied Sciences, Indore' },
+  {
+    title: 'Java (Basic) Certificate',
+    issuer: 'HackerRank',
+  },
+  {
+    title: 'REST API (Intermediate) Certificate',
+    issuer: 'HackerRank',
+  },
+  {
+    title: 'From Relational Model (SQL) to MongoDB\'s Document Model',
+    issuer: 'MongoDB (Credly)',
+  },
+  {
+    title: 'API Documentation Learning Path',
+    issuer: 'Postman Academy',
+  },
+  {
+    title: '4th Position',
+    issuer: 'Symbiosis Skill Hackathon — Symbiosis University of Applied Sciences, Indore',
+  },
 ];

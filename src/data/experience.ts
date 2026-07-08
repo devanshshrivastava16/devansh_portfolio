@@ -11,18 +11,29 @@ export interface Experience {
 
 export const experiences: Experience[] = [
   {
-    id: 'exp-1',
-    company: 'OccultHouse Pvt. Ltd.',
-    role: 'Frontend Developer Intern',
-    type: 'Internship',
-    period: 'July 2025',
-    description: 'Worked as a Frontend Developer Intern, developing and optimizing reusable UI components for an e-commerce platform using React.js.',
-    achievements: [
-      'Developed and optimized reusable React.js UI components for an e-commerce platform',
-      'Collaborated with cross-functional teams including designers and backend developers',
-      'Followed modern frontend best practices including component-driven development',
-      'Improved responsiveness and user experience across the platform',
-    ],
-    techStack: ['React.js', 'JavaScript', 'HTML', 'CSS', 'Tailwind CSS'],
-  },
+  id: 'exp-1',
+  company: 'OccultHouse Pvt. Ltd.',
+  role: 'Full-Stack Developer Intern',
+  type: 'Internship',
+  period: 'July 2025 – August 2025',
+  description:
+    'Contributed to the development of a scalable e-commerce platform by building reusable React.js components, integrating RESTful APIs, and collaborating in an Agile environment to deliver production-ready features.',
+  achievements: [
+    'Developed 30+ reusable React.js components, improving UI consistency and accelerating feature development.',
+    'Integrated RESTful APIs with frontend components, enabling seamless data flow across the application.',
+    'Collaborated with designers and backend engineers in an Agile development environment.',
+    'Enhanced application responsiveness and user experience through performance-focused UI optimizations.',
+    'Followed component-driven architecture and modern full-stack development best practices.',
+    'Participated in code reviews, debugging, and feature implementation throughout the development lifecycle.'
+  ],
+  techStack: [
+    'React.js',
+    'JavaScript',
+    'HTML5',
+    'CSS3',
+    'Tailwind CSS',
+    'REST APIs',
+    'Git'
+  ],
+},
 ];

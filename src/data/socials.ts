@@ -5,10 +5,10 @@ export interface Social {
 }
 
 export const socials: Social[] = [
-  { name: 'GitHub', icon: 'FiGithub', url: 'https://github.com/devanshshri16' },
-  { name: 'LinkedIn', icon: 'FiLinkedin', url: 'https://linkedin.com/in/devansh-shrivastava' },
-  { name: 'LeetCode', icon: 'FiCode', url: 'https://leetcode.com/u/devanshshri16/' },
-  { name: 'HackerRank', icon: 'FiAward', url: 'https://hackerrank.com/devanshshri16' },
+  { name: 'GitHub', icon: 'FiGithub', url: 'https://github.com/devanshshrivastava16' },
+  { name: 'LinkedIn', icon: 'FiLinkedin', url: 'https://linkedin.com/in/devanshshrivastava' },
+  { name: 'LeetCode', icon: 'FiCode', url: 'https://leetcode.com/u/phenomxdevansh/' },
+  { name: 'HackerRank', icon: 'FiAward', url: 'https://hackerrank.com/devansh16' },
 ];
 
 export const navLinks = [
