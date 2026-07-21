@@ -31,7 +31,7 @@ export default function Contact() {
   const contactInfo = [
     { icon: FiMail, label: 'Email', value: SITE_CONFIG.email, href: `mailto:${SITE_CONFIG.email}` },
     { icon: FiMapPin, label: 'Location', value: SITE_CONFIG.location, href: '#' },
-    { icon: FiPhone, label: 'Phone', value: '+1 (555) 123-4567', href: 'tel:+15551234567' },
+    { icon: FiPhone, label: 'Phone', value: '+91 8604821964', href: 'tel:+918604821964' },
   ];
 
   return (
