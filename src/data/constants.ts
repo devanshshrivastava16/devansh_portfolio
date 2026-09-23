@@ -7,8 +7,8 @@ export const SITE_CONFIG = {
   phone: '+91 8604821964',
   resumeUrl: 'https://drive.google.com/file/d/1VgeSp20qaMJwQBlupfM_Sik-CXAavnXh/view?usp=sharing',
   location: 'Jhansi, India',
-  linkedin: 'https://linkedin.com/in/devansh-shrivastava',
-  github: 'https://github.com/devanshshri16',
+  linkedin: 'https://linkedin.com/in/devanshshrivastava',
+  github: 'https://github.com/devanshshrivastava16',
   leetcode: 'https://leetcode.com/u/devanshshri16/',
   hackerrank: 'https://hackerrank.com/devanshshri16',
 };
@@ -25,7 +25,7 @@ export const EDUCATION = [
     degree: 'BTech in Computer Science & Engineering',
     institution: 'Amity University Madhya Pradesh',
     period: '2023 — 2027',
-    score: 'CGPA 8.40',
+    score: 'CGPA 8.47',
   },
   {
     degree: 'Senior School Certificate (ISC)',
